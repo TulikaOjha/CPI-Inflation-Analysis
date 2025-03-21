@@ -27,8 +27,7 @@ This project analyzes **Consumer Price Index (CPI)** data from **2013 to 2023** 
 ---
 
 ## **Project Structure**
-- `Data/` - Raw and cleaned CPI data files.
-- `Analysis.xlsx` - Excel workbook with data analysis, visualizations, and insights.
+- `CPI Inflation Case Study.xlsx` - Excel workbook with data analysis, visualizations, and insights.
 - `README.md` - Project overview and detailed information.
 
 ---
